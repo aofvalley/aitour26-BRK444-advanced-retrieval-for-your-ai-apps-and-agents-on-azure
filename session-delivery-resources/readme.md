@@ -146,6 +146,7 @@ To be able to show the demos yourself, you will need to set up the three codebas
 
     ```bash
     cp -r ../session-delivery-resources/zava-data/* ./data/
+    ```
 
 5. Provision the Azure resources and deploy the app:
 
