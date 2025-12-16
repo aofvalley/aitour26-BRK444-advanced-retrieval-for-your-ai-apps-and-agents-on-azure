@@ -77,7 +77,7 @@ To be able to show the demos yourself, you will need to set up the three codebas
 
 6. Configure the Azure AI extensions for Azure Database for PostgreSQL:
 
-    ```shell
+    ```bash
     python ./scripts/setup_azure_ai.py
     ```
 
