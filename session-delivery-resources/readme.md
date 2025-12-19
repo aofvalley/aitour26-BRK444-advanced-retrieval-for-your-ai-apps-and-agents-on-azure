@@ -167,4 +167,4 @@ If you'd like, there are videos available for each demo. These videos have audio
 |  3 - RRF Search         | 1:31     | [aka.ms/AAxs6f9](https://aka.ms/AAxs6f9) |
 |  4 - Ranker Search      | 1:49     | [aka.ms/AAxsdx4](https://aka.ms/AAxsdx4) |
 |  5 - Postgres Shop      | 2:04     | [aka.ms/AAxsdx5](https://aka.ms/AAxsdx5) |
-|  6 - Agentic AI Search  | 1:52     | [aka.ms/AAxsdx3](https://aka.ms/AAxsdx3) |
+|  6 - Agentic AI Search  | 2:44     | [aka.ms/AAxsdx3](https://aka.ms/AAz24y8) |
