@@ -17,7 +17,7 @@ Speaker notes are available for each slide.
 
 ### Video recording
 
-[Watch the recording](https://youtu.be/FtcnRkcwOO0)
+[Watch the recording](https://youtu.be/wD1zpHQvNn0)
 
 ### Timing
 
